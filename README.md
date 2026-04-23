@@ -12,17 +12,16 @@
 
 ## 🙋‍♀️ About Me
 
-```python
-aishna = {
-    "role"        : "Aspiring Data Scientist",
-    "location"    : "India 🇮🇳",
-    "focus"       : ["Machine Learning", "NLP", "Data Analysis"],
-    "currently"   : "Diving deep into Transformers & LLMs 🔥",
-    "open_to"     : "Job opportunities in Data Science / ML roles",
-    "fun_fact"    : "I once built a model to detect fake reviews — \
-                     because not everything on the internet is real! 😄"
-}
-```
+Aspiring  Data Scientist  with a strong foundation in
+Machine Learning, NLP, and data analysis. I enjoy turning complex,
+messy datasets into clear, actionable insights.
+
+My project work spans fraud detection, churn analysis, sales dashboards,
+and deceptive review classification — giving me hands-on experience
+across the full data pipeline, from cleaning raw data to deploying models.
+
+Currently deepening my knowledge in **Transformers and Large Language Models**
+through self-directed learning and project-building.
 
 ---
 
@@ -36,7 +35,7 @@ aishna = {
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=python&logoColor=white)
-![SMOTE](https://img.shields.io/badge/SMOTE-Imbalanced-orange?style=for-the-badge)
+
 
 ### 📊 Data & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -73,39 +72,16 @@ aishna = {
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aishna20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishna20&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=aishna20&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 📈 Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-> *"Without data, you're just another person with an opinion."* — W. Edwards Deming
-
----
 
 ## 🤝 Let's Connect!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aishna-978a491aa/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aishna20)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aishnagupta25@gmail.com)
 
 </div>
 
