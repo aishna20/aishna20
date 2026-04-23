@@ -87,7 +87,7 @@ through self-directed learning and project-building.
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=aishna20&color=7F77DD&style=for-the-badge&label=Profile+Views)
+
 
 </div>
 
